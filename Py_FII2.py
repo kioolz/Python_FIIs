@@ -4,7 +4,7 @@ Created on Tue May 19 23:51:29 2020
 
 @author: Jefferson Pedro
 jeffersonpedro@gmail.com
-Coleta dados de todos os FIIs e salva em arquivo csv pronto para trabalhar no panda
+Coleta dados de todos os FIIs do site FundsExplorer e salva em arquivo csv pronto para trabalhar no panda
 
 """
 import requests
